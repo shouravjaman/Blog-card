@@ -3,7 +3,7 @@
     * {
       padding: 0;
       margin: 0;
-      font-family: "Figtree";
+      font-family: "Figtree",sans-serif;
     }
 
     body {
@@ -17,7 +17,6 @@
 
     .card {
       width: 285px;
-      height: 400px;
       background-color: hsl(0, 0%, 100%);
       border-radius: 13px;
       padding: 16px;
@@ -37,7 +36,7 @@
       border-radius: 4px;
       text-align: center;
       padding: 2px;
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 800;
     }
 
@@ -47,7 +46,7 @@
 
     .content :nth-child(2) {
       color: hsl(0, 0%, 7%);
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 500;
       padding-top: 12px;
     }
@@ -65,7 +64,7 @@
 
     .content :nth-child(4) {
       color: hsl(0, 0%, 42%);
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 500;
     }
 
@@ -81,21 +80,20 @@
     }
 
     .profile p {
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 800;
       padding-left: 10px;
     }
 
     .attribution {
       margin-top: 30px;
-      font-size: 0.6875rem;
       text-align: center;
-      font-size: 18px;
+      font-size: 14px;
     }
 
     .attribution a {
       color: hsl(261, 51%, 42%);
-      font-size: 17px;
+      font-size: 14px;
       font-weight: bold;
       text-decoration: none;
     }
