@@ -52,15 +52,14 @@
       padding-top: 12px;
     }
 
-    .content :nth-child(3) {
-      font-size: 18px;
+    h1 {
+      font-size: 16px;
       font-weight: 800;
       padding: 13px 0px;
-      transition: 0.2s ease-in-out;
       cursor: pointer;
     }
 
-    .content :nth-child(3):hover {
+    h1:hover{
       color: hsl(47, 88%, 63%);
     }
 
