@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/blog-card-using-html-and-css-1V2Q6M3PBq)
 - Live Site URL: [live site](https://blog-cardproject.netlify.app/)
 
 ## My process
